@@ -11,7 +11,7 @@ This repository is intended to help students understand the course topics, acces
 | Detail | Information |
 |---|---|
 | Institution | SRM Institute of Science and Technology (SRMIST) |
-| Department | DSBS |
+| Department | School of Computing |
 | Course Name | Risk Analytics |
 | Course Code | 21CSE449T |
 | Course Category | Professional Elective |
