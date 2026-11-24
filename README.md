@@ -71,10 +71,10 @@ The practical tutorials use Python and data analytics techniques to explore the 
 
 | Tutorial | Topic | File |
 |---|---|---|
-| T5 | Internal Capital Adequacy Assessment Process Related Risk Analytics | [Tutorial_5.ipynb](Tutorial_5.ipynb) |
-| T6 | Risk-Adjusted Performance Management | [Tutorial_6.ipynb](Tutorial_6.ipynb) |
-| T8 | Implementation of parsing RSS and HTML, pickling | [Tutorial_8.ipynb](Tutorial_8.ipynb) |
-| T9 | Fraud Handling using analytics | [Tutorial_9.ipynb](Tutorial_9.ipynb) |
+| T5 | Internal Capital Adequacy Assessment Process Related Risk Analytics | [Tutorial_05.ipynb](Tutorial_05.ipynb) |
+| T6 | Risk-Adjusted Performance Management | [Tutorial_06.ipynb](Tutorial_06.ipynb) |
+| T8 | Implementation of parsing RSS and HTML, pickling | [Tutorial_08.ipynb](Tutorial_08.ipynb) |
+| T9 | Fraud Handling using analytics | [Tutorial_09.ipynb](Tutorial_09.ipynb) |
 | T11 | Health Value, Cost and Outcome analysis | [Tutorial_11.ipynb](Tutorial_11.ipynb) |
 | T12 | Explore available frameworks for customer analytics | [Tutorial_12.ipynb](Tutorial_12.ipynb) |
 
@@ -125,11 +125,11 @@ Written tutorials are provided as `.docx` files and can be opened using Microsof
 
 | Tutorial | Topic | File |
 |---|---|---|
-| T1 | Discussion with case studies on impacts with risks | [Tutorial_1.docx](Tutorial_1.docx) |
-| T2 | Risk mitigation and management plan document | [Tutorial_2.docx](Tutorial_2.docx) |
-| T3 | Explore Risk Analytics | [Tutorial_3.docx](Tutorial_3.docx) |
-| T4 | Compare national and international banking laws with case studies and papers | [Tutorial_4.docx](Tutorial_4.docx) |
-| T7 | A comprehensive study on Insurance sector App | [Tutorial_7.docx](Tutorial_7.docx) |
+| T1 | Discussion with case studies on impacts with risks | [Tutorial_01.docx](Tutorial_01.docx) |
+| T2 | Risk mitigation and management plan document | [Tutorial_02.docx](Tutorial_02.docx) |
+| T3 | Explore Risk Analytics | [Tutorial_03.docx](Tutorial_03.docx) |
+| T4 | Compare national and international banking laws with case studies and papers | [Tutorial_04.docx](Tutorial_04.docx) |
+| T7 | A comprehensive study on Insurance sector App | [Tutorial_07.docx](Tutorial_07.docx) |
 | T10 | A survey on healthcare standards – national and international | [Tutorial_10.docx](Tutorial_10.docx) |
 | T13 | Analyse workforce Psychology and Talent Management | [Tutorial_13.docx](Tutorial_13.docx) |
 | T14 | Retention and employee engagement analytics | [Tutorial_14.docx](Tutorial_14.docx) |
@@ -173,15 +173,15 @@ This repository is intended for:
 ```text
 SRMIST-Risk-Analytics-Tutorials/
 │
-├── Tutorial_1.docx
-├── Tutorial_2.docx
-├── Tutorial_3.docx
-├── Tutorial_4.docx
-├── Tutorial_5.ipynb
-├── Tutorial_6.ipynb
-├── Tutorial_7.docx
-├── Tutorial_8.ipynb
-├── Tutorial_9.ipynb
+├── Tutorial_01.docx
+├── Tutorial_02.docx
+├── Tutorial_03.docx
+├── Tutorial_04.docx
+├── Tutorial_05.ipynb
+├── Tutorial_06.ipynb
+├── Tutorial_07.docx
+├── Tutorial_08.ipynb
+├── Tutorial_09.ipynb
 ├── Tutorial_10.docx
 ├── Tutorial_11.ipynb
 ├── Tutorial_12.ipynb
